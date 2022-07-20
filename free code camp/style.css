@@ -1,0 +1,12 @@
+.gif{
+background-color: black;
+height: 100vh;
+width: 100vw;
+
+}
+.netflix{
+  height: 100vh;
+  width: 100vw;
+  animation: load 2s 1;
+
+}
